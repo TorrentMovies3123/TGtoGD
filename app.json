@@ -41,7 +41,7 @@
   }, {
     "url": "https://github.com/HasibulKabir/heroku-buildpack-rarlab"
   }, {
-    "url": "heroku/python-3.8.8"
+    "url": "heroku/python"
   }],
   "formation": {
     "worker": {

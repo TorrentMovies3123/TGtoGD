@@ -1,22 +1,12 @@
 {
   "name": "G-Drive Uploader",
-  "description": "Upload supported direct links Directly to your G-Drive. Powered by @moviezonlysupport!",
+  "description": "Upload supported direct links Directly to your G-Drive.",
   "keywords": [
-    "telegram",
-    "best",
-    "indian",
-    "pyrogram",
-    "gdrive",
-    "3",
-    "plugin",
-    "modular",
-    "productivity",
-    "g-drive",
-    "uploader"
+
   ],
-  "repository": "https://githhttps://github.com/prgofficial/TG-to-GDRIVE",
-  "success_url": "https://github.com/aryanvikash/Google-Drive-Uploader",
-  "website": "https://github.com/prgofficial/TG-to-GDRIVE",
+  "repository": "",
+  "success_url": "",
+  "website": "",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -51,7 +41,7 @@
   }, {
     "url": "https://github.com/HasibulKabir/heroku-buildpack-rarlab"
   }, {
-    "url": "heroku/python"
+    "url": "heroku/python-3.8.8"
   }],
   "formation": {
     "worker": {
